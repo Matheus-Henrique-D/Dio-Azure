@@ -182,6 +182,6 @@ Contribuições são muito bem-vindas! Sinta-se à vontade para:
 
 ⭐ **Se este repositório foi útil para você, considere dar uma estrela!** ⭐
 
-*Última atualização: Dezembro 2024*
+*Última atualização: Julho de 2025*
 
 </div>
